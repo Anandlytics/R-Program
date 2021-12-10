@@ -3,5 +3,5 @@ Data Analysis using R
  Regressions
  ANOVA
  Predictive Models
- -Cluster Ananlysis
+ -Cluster Ananlysis: Kmeans, Hierarchichal
  -Neural Nets
