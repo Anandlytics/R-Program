@@ -5,3 +5,4 @@ Data Analysis using R
  Predictive Models
  -Cluster Ananlysis: Kmeans, Hierarchichal
  -Neural Nets
+ - Testing and Training Data set
