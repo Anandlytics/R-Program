@@ -1,8 +1,8 @@
 # R-Program
 Data Analysis using R
- Regressions
+ 
  ANOVA
- Predictive Models
+ Predictive Models - Testing and Training Data set
  -Cluster Ananlysis: Kmeans, Hierarchichal
  -Neural Nets
- - Testing and Training Data set
+ -Regressions-Linear, Multiple, Polynomial and Logistic
